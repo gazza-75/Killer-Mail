@@ -15,3 +15,4 @@ Key Partners APIs:
 * URLscan.io
 * stat.ripe.net
 * Auth0 Signals API (replacement)
+* Phishtank
