@@ -14,3 +14,4 @@ Four distinct stages:
 Key Partners APIs:
 * URLscan.io
 * stat.ripe.net
+* Auth0 Signals API (replacement)
